@@ -1,5 +1,8 @@
 const express = require("express");
 const path = require("path");
+var ghpages = require("gh-pages");
+
+ghpages.publish("dist", function (err) {});
 
 const app = express();
 

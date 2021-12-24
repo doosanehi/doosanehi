@@ -129,12 +129,14 @@ export default class extends AbstractView {
         fetch(loginURL, {
           method: "POST",
           body: JSON.stringify(loginUser),
-          cache: "no-cache",
+          // cache: "no-cache",
           headers: {
             "Content-Type": "application/json",
           },
         })
           .then((res) => {
+            console.log("res.ok", res);
+            return;
             if (res.ok) {
               // $loginBtn.parentElement.href = "/main";
               return res.json();
