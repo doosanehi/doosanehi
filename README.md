@@ -3,20 +3,21 @@
 
 ## 목차
 
-1. [백두산 소개](#나는-누구일까)
+1. [안녕하세요](#안녕하세요)
 2. [기술 스택](#기술-스택)
 
 ---
 
-## 백두산 소개
+## 안녕하세요
 
 - 2012.03 ~ 2021.08 : 연세대학교 경영학과 학사졸업
 - 2021.10 ~ 2022.03 : 엘리스 SW 엔지니어 트랙 1기 수료
 - 2022.03 ~  : 주식회사 버프랩 프론트엔드 개발자
 
-### 안녕하세요!
+### 나는?
 
 - 안녕하세요 프론트엔드 개발자 백두산입니다.
+- [Notion](https://baekdoosan.notion.site/8e4195c8bb2646cfa4629e7304b9c889)
 
 ## 기술 스택
 
@@ -29,3 +30,4 @@
 ### 사용해본 기술 스택
 
 <img src="https://img.shields.io/badge/Recoil-3766AB?style=flat-square&logo=Recoil&logoColor=white"/>  <img src="https://img.shields.io/badge/Express-ed7c3b?style=flat-square&logo=Typescript&logoColor=white"/>  <img src="https://img.shields.io/badge/MongoDB-3766AB?style=flat-square&logo=MongoDB&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon EC2-ed7c3b?style=flat-square&logo=Amazon EC2&logoColor=white"/>  <img src="https://img.shields.io/badge/Amazon S3-3766AB?style=flat-square&logo=Amazon S3&logoColor=white"/>
+
